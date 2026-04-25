@@ -1,0 +1,296 @@
+product_key,product_name,category,subcategory,price,cost,stock_quantity,supplier,rating,discount_percent,date_added
+1,HL Road Frame - Black- 58,Components,Road Frames,193.52,0,480,Supplier A,2.8,10,2003-07-01
+2,HL Road Frame - Red- 58,Components,Road Frames,475.85,0,263,Supplier A,3.1,15,2003-07-01
+3,Mountain-100 Black- 38,Bikes,Mountain Bikes,368.68,1898,52,Supplier B,2.0,5,2011-07-01
+4,Mountain-100 Black- 42,Bikes,Mountain Bikes,303.34,1898,59,Supplier C,2.1,5,2011-07-01
+5,Mountain-100 Black- 44,Bikes,Mountain Bikes,86.45,1898,491,Supplier C,2.5,20,2011-07-01
+6,Mountain-100 Black- 48,Bikes,Mountain Bikes,86.44,1898,107,Supplier A,1.1,20,2011-07-01
+7,Mountain-100 Silver- 38,Bikes,Mountain Bikes,38.46,1912,4,Supplier B,2.3,5,2011-07-01
+8,Mountain-100 Silver- 42,Bikes,Mountain Bikes,434.43,1912,102,Supplier C,1.8,20,2011-07-01
+9,Mountain-100 Silver- 44,Bikes,Mountain Bikes,304.55,1912,195,Supplier C,2.3,10,2011-07-01
+10,Mountain-100 Silver- 48,Bikes,Mountain Bikes,356.96,1912,261,Supplier B,1.5,5,2011-07-01
+11,Road-450 Red- 44,Bikes,Road Bikes,20.09,885,364,Supplier B,4.6,20,2011-07-01
+12,Road-450 Red- 48,Bikes,Road Bikes,485.26,885,479,Supplier C,3.4,5,2011-07-01
+13,Road-450 Red- 52,Bikes,Road Bikes,417.9,885,371,Supplier C,3.7,15,2011-07-01
+14,Road-450 Red- 58,Bikes,Road Bikes,114.05,885,349,Supplier B,4.2,0,2011-07-01
+15,Road-450 Red- 60,Bikes,Road Bikes,99.09,885,46,Supplier C,3.0,5,2011-07-01
+16,Road-150 Red- 44,Bikes,Road Bikes,99.87,2171,354,Supplier A,1.3,0,2011-07-01
+17,Road-150 Red- 48,Bikes,Road Bikes,159.08,2171,310,Supplier A,3.1,20,2011-07-01
+18,Road-150 Red- 52,Bikes,Road Bikes,267.13,2171,423,Supplier B,3.3,0,2011-07-01
+19,Road-150 Red- 56,Bikes,Road Bikes,221.65,2171,307,Supplier B,4.0,5,2011-07-01
+20,Road-150 Red- 62,Bikes,Road Bikes,152.7,2171,143,Supplier B,2.7,15,2011-07-01
+21,HL Mountain Frame - Black- 44,Components,Mountain Frames,309.81,699,268,Supplier A,1.5,20,2011-07-01
+22,HL Mountain Frame - Black- 48,Components,Mountain Frames,78.35,699,369,Supplier C,2.1,5,2011-07-01
+23,HL Mountain Frame - Silver- 44,Components,Mountain Frames,153.15,707,123,Supplier A,2.5,20,2011-07-01
+24,HL Mountain Frame - Silver- 48,Components,Mountain Frames,189.52,707,105,Supplier C,3.6,10,2011-07-01
+25,ML Road Frame - Red- 44,Components,Road Frames,233.47,352,157,Supplier A,3.3,0,2011-07-01
+26,ML Road Frame - Red- 48,Components,Road Frames,394.74,352,146,Supplier C,2.4,10,2011-07-01
+27,ML Road Frame - Red- 52,Components,Road Frames,107.84,352,144,Supplier A,4.9,5,2011-07-01
+28,ML Road Frame - Red- 58,Components,Road Frames,261.97,352,119,Supplier B,3.4,15,2011-07-01
+29,ML Road Frame - Red- 60,Components,Road Frames,300.28,352,318,Supplier A,1.9,20,2011-07-01
+30,Mountain Bike Socks- L,Clothing,Socks,32.76,3,274,Supplier C,1.4,0,2011-07-01
+31,Mountain Bike Socks- M,Clothing,Socks,307.7,3,91,Supplier A,1.6,20,2011-07-01
+32,Mountain-300 Black- 38,Bikes,Mountain Bikes,93.56,598,57,Supplier A,2.0,5,2012-07-01
+33,Mountain-300 Black- 40,Bikes,Mountain Bikes,41.88,598,438,Supplier A,1.6,20,2012-07-01
+34,Mountain-300 Black- 44,Bikes,Mountain Bikes,474.95,598,345,Supplier B,1.7,0,2012-07-01
+35,Mountain-300 Black- 48,Bikes,Mountain Bikes,483.16,598,228,Supplier A,2.1,5,2012-07-01
+36,Road-650 Black- 44,Bikes,Road Bikes,406.11,487,473,Supplier B,1.7,20,2012-07-01
+37,Road-650 Black- 48,Bikes,Road Bikes,159.26,487,116,Supplier B,4.6,15,2012-07-01
+38,Road-650 Black- 52,Bikes,Road Bikes,57.86,487,317,Supplier A,1.3,5,2012-07-01
+39,Road-650 Black- 58,Bikes,Road Bikes,345.27,487,278,Supplier A,3.1,5,2012-07-01
+40,Road-650 Black- 60,Bikes,Road Bikes,225.67,487,126,Supplier A,2.6,15,2012-07-01
+41,Road-650 Black- 62,Bikes,Road Bikes,69.8,487,392,Supplier C,4.9,10,2012-07-01
+42,Road-650 Red- 44,Bikes,Road Bikes,252.64,487,395,Supplier A,1.4,0,2012-07-01
+43,Road-650 Red- 48,Bikes,Road Bikes,26.85,487,128,Supplier B,2.6,10,2012-07-01
+44,Road-650 Red- 52,Bikes,Road Bikes,455.57,487,57,Supplier A,4.9,20,2012-07-01
+45,Road-650 Red- 58,Bikes,Road Bikes,136.8,487,121,Supplier C,4.5,15,2012-07-01
+46,Road-650 Red- 60,Bikes,Road Bikes,334.64,487,0,Supplier A,4.3,10,2012-07-01
+47,Road-650 Red- 62,Bikes,Road Bikes,162.74,487,238,Supplier C,2.0,5,2012-07-01
+48,Road-250 Red- 44,Bikes,Road Bikes,264.83,1519,289,Supplier C,1.7,20,2012-07-01
+49,Road-250 Red- 48,Bikes,Road Bikes,277.89,1519,95,Supplier A,3.7,20,2012-07-01
+50,Road-250 Red- 52,Bikes,Road Bikes,100.58,1519,125,Supplier B,4.7,10,2012-07-01
+51,LL Fork,Components,Forks,485.1,66,117,Supplier C,3.2,10,2012-07-01
+52,ML Fork,Components,Forks,389.82,78,47,Supplier A,3.3,15,2012-07-01
+53,HL Fork,Components,Forks,470.35,102,88,Supplier A,2.1,0,2012-07-01
+54,ML Mountain Frame - Black- 38,Components,Mountain Frames,448.47,186,487,Supplier B,4.1,10,2012-07-01
+55,ML Mountain Frame - Black- 40,Components,Mountain Frames,302.97,186,236,Supplier C,1.7,10,2012-07-01
+56,ML Mountain Frame - Black- 44,Components,Mountain Frames,461.72,186,372,Supplier C,2.3,5,2012-07-01
+57,ML Mountain Frame - Black- 48,Components,Mountain Frames,53.36,186,384,Supplier A,2.7,20,2012-07-01
+58,LL Road Frame - Red- 44,Components,Road Frames,106.03,187,271,Supplier A,3.0,0,2012-07-01
+59,LL Road Frame - Red- 48,Components,Road Frames,32.16,187,188,Supplier B,2.0,5,2012-07-01
+60,LL Road Frame - Red- 52,Components,Road Frames,169.41,187,486,Supplier B,1.5,15,2012-07-01
+61,LL Road Frame - Red- 58,Components,Road Frames,200.45,187,191,Supplier C,3.4,15,2012-07-01
+62,LL Road Frame - Red- 60,Components,Road Frames,142.96,187,446,Supplier C,2.2,10,2012-07-01
+63,LL Road Frame - Red- 62,Components,Road Frames,416.08,187,68,Supplier A,3.3,10,2012-07-01
+64,LL Mountain Front Wheel,Components,Wheels,184.81,27,277,Supplier C,1.6,15,2012-07-01
+65,ML Mountain Front Wheel,Components,Wheels,147.66,93,348,Supplier B,2.9,10,2012-07-01
+66,HL Mountain Front Wheel,Components,Wheels,275.92,133,246,Supplier B,3.1,0,2012-07-01
+67,LL Road Front Wheel,Components,Wheels,79.05,38,450,Supplier A,1.2,10,2012-07-01
+68,ML Road Front Wheel,Components,Wheels,403.08,110,75,Supplier B,2.3,20,2012-07-01
+69,HL Road Front Wheel,Components,Wheels,46.53,147,153,Supplier B,1.5,10,2012-07-01
+70,Touring Front Wheel,Components,Wheels,493.57,97,143,Supplier B,1.3,5,2012-07-01
+71,Full-Finger Gloves- L,Clothing,Gloves,388.4,16,434,Supplier B,5.0,0,2012-07-01
+72,Full-Finger Gloves- M,Clothing,Gloves,107.37,16,484,Supplier A,2.3,5,2012-07-01
+73,Full-Finger Gloves- S,Clothing,Gloves,12.71,16,85,Supplier A,4.2,5,2012-07-01
+74,LL Headset,Components,Headsets,409.58,15,184,Supplier C,2.0,20,2012-07-01
+75,ML Headset,Components,Headsets,356.36,45,284,Supplier B,3.7,0,2012-07-01
+76,HL Headset,Components,Headsets,367.21,55,461,Supplier C,4.0,0,2012-07-01
+77,Cable Lock,Accessories,Locks,387.92,10,219,Supplier A,3.4,0,2012-07-01
+78,Headlights - Dual-Beam,Accessories,Lights,46.28,14,68,Supplier A,2.9,0,2012-07-01
+79,Headlights - Weatherproof,Accessories,Lights,185.65,19,46,Supplier A,2.6,0,2012-07-01
+80,Taillights - Battery-Powered,Accessories,Lights,66.78,6,496,Supplier A,2.4,20,2012-07-01
+81,Touring-Panniers- Large,Accessories,Panniers,432.92,52,93,Supplier A,4.7,10,2012-07-01
+82,Minipump,Accessories,Pumps,315.42,8,237,Supplier A,4.3,5,2012-07-01
+83,Mountain Pump,Accessories,Pumps,172.14,10,445,Supplier A,4.9,0,2012-07-01
+84,LL Mountain Rear Wheel,Components,Wheels,41.14,39,499,Supplier B,1.5,10,2012-07-01
+85,ML Mountain Rear Wheel,Components,Wheels,162.38,105,452,Supplier C,3.9,10,2012-07-01
+86,HL Mountain Rear Wheel,Components,Wheels,169.34,145,203,Supplier A,4.8,5,2012-07-01
+87,LL Road Rear Wheel,Components,Wheels,367.51,50,399,Supplier B,1.7,20,2012-07-01
+88,ML Road Rear Wheel,Components,Wheels,322.4,122,217,Supplier B,1.3,15,2012-07-01
+89,HL Road Rear Wheel,Components,Wheels,444.73,159,473,Supplier C,4.0,15,2012-07-01
+90,Touring Rear Wheel,Components,Wheels,241.39,109,431,Supplier A,3.3,10,2012-07-01
+91,Men's Bib-Shorts- L,Clothing,Bib-Shorts,68.6,37,340,Supplier C,4.4,5,2012-07-01
+92,Men's Bib-Shorts- M,Clothing,Bib-Shorts,359.49,37,38,Supplier A,1.6,15,2012-07-01
+93,Men's Bib-Shorts- S,Clothing,Bib-Shorts,382.78,37,99,Supplier B,4.2,10,2012-07-01
+94,Men's Sports Shorts- L,Clothing,Shorts,285.03,25,288,Supplier B,1.8,20,2012-07-01
+95,Men's Sports Shorts- M,Clothing,Shorts,387.77,25,253,Supplier B,1.7,15,2012-07-01
+96,Men's Sports Shorts- S,Clothing,Shorts,251.96,25,221,Supplier B,1.7,10,2012-07-01
+97,Men's Sports Shorts- XL,Clothing,Shorts,266.14,25,356,Supplier C,4.3,10,2012-07-01
+98,Women's Tights- L,Clothing,Tights,219.5,31,22,Supplier A,3.7,0,2012-07-01
+99,Women's Tights- M,Clothing,Tights,22.46,31,249,Supplier A,3.1,20,2012-07-01
+100,Women's Tights- S,Clothing,Tights,62.87,31,9,Supplier C,2.4,0,2012-07-01
+101,LL Bottom Bracket,Components,Bottom Brackets,25.4,24,245,Supplier A,4.5,5,2013-07-01
+102,ML Bottom Bracket,Components,Bottom Brackets,321.84,45,324,Supplier B,2.6,0,2013-07-01
+103,HL Bottom Bracket,Components,Bottom Brackets,164.03,54,99,Supplier A,4.3,0,2013-07-01
+104,Mountain Bottle Cage,Accessories,Bottles and Cages,259.2,4,289,Supplier B,2.8,15,2013-07-01
+105,Road Bottle Cage,Accessories,Bottles and Cages,454.71,3,179,Supplier C,2.5,10,2013-07-01
+106,Mountain-500 Black- 40,Bikes,Mountain Bikes,132.15,295,222,Supplier A,2.9,20,2013-07-01
+107,Mountain-500 Black- 42,Bikes,Mountain Bikes,211.09,295,393,Supplier C,2.2,0,2013-07-01
+108,Mountain-500 Black- 44,Bikes,Mountain Bikes,380.22,295,249,Supplier A,4.0,20,2013-07-01
+109,Mountain-500 Black- 48,Bikes,Mountain Bikes,122.11,295,146,Supplier B,3.0,0,2013-07-01
+110,Mountain-500 Black- 52,Bikes,Mountain Bikes,47.72,295,441,Supplier C,1.9,5,2013-07-01
+111,Mountain-500 Silver- 40,Bikes,Mountain Bikes,151.98,308,95,Supplier A,4.6,0,2013-07-01
+112,Mountain-500 Silver- 42,Bikes,Mountain Bikes,89.0,308,256,Supplier B,2.5,15,2013-07-01
+113,Mountain-500 Silver- 44,Bikes,Mountain Bikes,465.55,308,324,Supplier C,3.2,10,2013-07-01
+114,Mountain-500 Silver- 48,Bikes,Mountain Bikes,405.98,308,492,Supplier C,4.6,5,2013-07-01
+115,Mountain-500 Silver- 52,Bikes,Mountain Bikes,320.37,308,3,Supplier A,3.5,0,2013-07-01
+116,Mountain-400-W Silver- 38,Bikes,Mountain Bikes,437.02,420,15,Supplier A,1.5,20,2013-07-01
+117,Mountain-400-W Silver- 40,Bikes,Mountain Bikes,403.8,420,279,Supplier A,4.8,5,2013-07-01
+118,Mountain-400-W Silver- 42,Bikes,Mountain Bikes,101.42,420,335,Supplier B,3.5,5,2013-07-01
+119,Mountain-400-W Silver- 46,Bikes,Mountain Bikes,447.35,420,246,Supplier A,2.3,0,2013-07-01
+120,Mountain-200 Black- 38,Bikes,Mountain Bikes,274.28,1252,257,Supplier C,1.6,5,2013-07-01
+121,Mountain-200 Black- 42,Bikes,Mountain Bikes,405.65,1252,496,Supplier C,4.2,20,2013-07-01
+122,Mountain-200 Black- 46,Bikes,Mountain Bikes,449.08,1252,475,Supplier A,3.5,5,2013-07-01
+123,Mountain-200 Silver- 38,Bikes,Mountain Bikes,165.82,1266,383,Supplier A,3.1,20,2013-07-01
+124,Mountain-200 Silver- 42,Bikes,Mountain Bikes,63.93,1266,159,Supplier C,4.6,0,2013-07-01
+125,Mountain-200 Silver- 46,Bikes,Mountain Bikes,121.69,1266,474,Supplier B,4.2,10,2013-07-01
+126,Road-750 Black- 44,Bikes,Road Bikes,219.28,344,339,Supplier A,1.6,5,2013-07-01
+127,Road-750 Black- 48,Bikes,Road Bikes,410.83,344,151,Supplier A,2.2,10,2013-07-01
+128,Road-750 Black- 52,Bikes,Road Bikes,431.76,344,395,Supplier C,2.0,20,2013-07-01
+129,Road-750 Black- 58,Bikes,Road Bikes,13.41,344,177,Supplier A,4.0,5,2013-07-01
+130,Road-550-W Yellow- 38,Bikes,Road Bikes,260.27,713,162,Supplier B,1.1,15,2013-07-01
+131,Road-550-W Yellow- 40,Bikes,Road Bikes,214.53,713,379,Supplier C,3.3,10,2013-07-01
+132,Road-550-W Yellow- 42,Bikes,Road Bikes,118.83,713,32,Supplier A,4.0,5,2013-07-01
+133,Road-550-W Yellow- 44,Bikes,Road Bikes,68.73,713,416,Supplier C,4.5,10,2013-07-01
+134,Road-550-W Yellow- 48,Bikes,Road Bikes,175.43,713,444,Supplier A,2.4,5,2013-07-01
+135,Road-350-W Yellow- 40,Bikes,Road Bikes,472.03,1083,178,Supplier A,4.3,0,2013-07-01
+136,Road-350-W Yellow- 42,Bikes,Road Bikes,168.37,1083,426,Supplier A,1.4,10,2013-07-01
+137,Road-350-W Yellow- 44,Bikes,Road Bikes,264.21,1083,100,Supplier B,4.4,15,2013-07-01
+138,Road-350-W Yellow- 48,Bikes,Road Bikes,354.48,1083,267,Supplier B,1.5,15,2013-07-01
+139,Road-250 Black- 44,Bikes,Road Bikes,188.18,1555,322,Supplier C,2.6,20,2013-07-01
+140,Road-250 Black- 48,Bikes,Road Bikes,486.17,1555,64,Supplier A,4.2,5,2013-07-01
+141,Road-250 Black- 52,Bikes,Road Bikes,481.6,1555,416,Supplier A,1.6,10,2013-07-01
+142,Road-250 Black- 58,Bikes,Road Bikes,133.37,1555,167,Supplier B,1.9,20,2013-07-01
+143,Road-250 Red- 58,Bikes,Road Bikes,253.65,1555,329,Supplier A,3.9,10,2013-07-01
+144,Touring-3000 Blue- 44,Bikes,Touring Bikes,157.43,461,42,Supplier B,3.9,5,2013-07-01
+145,Touring-3000 Blue- 50,Bikes,Touring Bikes,149.57,461,43,Supplier A,3.6,15,2013-07-01
+146,Touring-3000 Blue- 54,Bikes,Touring Bikes,28.07,461,284,Supplier C,3.8,0,2013-07-01
+147,Touring-3000 Blue- 58,Bikes,Touring Bikes,308.69,461,396,Supplier A,3.2,15,2013-07-01
+148,Touring-3000 Blue- 62,Bikes,Touring Bikes,256.31,461,11,Supplier A,2.0,20,2013-07-01
+149,Touring-3000 Yellow- 44,Bikes,Touring Bikes,35.22,461,94,Supplier B,2.4,0,2013-07-01
+150,Touring-3000 Yellow- 50,Bikes,Touring Bikes,146.54,461,301,Supplier A,1.7,20,2013-07-01
+151,Touring-3000 Yellow- 54,Bikes,Touring Bikes,455.05,461,385,Supplier A,4.6,5,2013-07-01
+152,Touring-3000 Yellow- 58,Bikes,Touring Bikes,127.39,461,252,Supplier B,3.3,0,2013-07-01
+153,Touring-3000 Yellow- 62,Bikes,Touring Bikes,81.0,461,498,Supplier C,2.6,20,2013-07-01
+154,Touring-2000 Blue- 46,Bikes,Touring Bikes,249.83,755,241,Supplier C,2.8,5,2013-07-01
+155,Touring-2000 Blue- 50,Bikes,Touring Bikes,492.97,755,34,Supplier B,4.8,15,2013-07-01
+156,Touring-2000 Blue- 54,Bikes,Touring Bikes,128.61,755,214,Supplier B,1.6,5,2013-07-01
+157,Touring-2000 Blue- 60,Bikes,Touring Bikes,339.35,755,336,Supplier B,3.3,10,2013-07-01
+158,Touring-1000 Blue- 46,Bikes,Touring Bikes,383.19,1482,89,Supplier B,3.0,5,2013-07-01
+159,Touring-1000 Blue- 50,Bikes,Touring Bikes,126.44,1482,263,Supplier B,3.4,5,2013-07-01
+160,Touring-1000 Blue- 54,Bikes,Touring Bikes,366.83,1482,92,Supplier C,1.1,10,2013-07-01
+161,Touring-1000 Blue- 60,Bikes,Touring Bikes,190.21,1482,409,Supplier C,4.5,20,2013-07-01
+162,Touring-1000 Yellow- 46,Bikes,Touring Bikes,319.83,1482,457,Supplier B,4.7,20,2013-07-01
+163,Touring-1000 Yellow- 50,Bikes,Touring Bikes,320.43,1482,89,Supplier A,3.3,5,2013-07-01
+164,Touring-1000 Yellow- 54,Bikes,Touring Bikes,272.53,1482,417,Supplier B,3.8,10,2013-07-01
+165,Touring-1000 Yellow- 60,Bikes,Touring Bikes,54.24,1482,114,Supplier A,4.7,10,2013-07-01
+166,AWC Logo Cap,Clothing,Caps,419.3,7,104,Supplier B,3.8,15,2013-07-01
+167,Chain,Components,Chains,167.18,9,390,Supplier B,1.6,20,2013-07-01
+168,Bike Wash - Dissolver,Accessories,Cleaners,101.39,3,195,Supplier C,3.3,0,2013-07-01
+169,LL Crankset,Components,Cranksets,29.98,78,313,Supplier A,3.4,20,2013-07-01
+170,ML Crankset,Components,Cranksets,299.54,114,113,Supplier A,2.7,20,2013-07-01
+171,HL Crankset,Components,Cranksets,342.01,180,492,Supplier C,3.9,15,2013-07-01
+172,Front Brakes,Components,Brakes,18.13,47,74,Supplier C,4.7,0,2013-07-01
+173,Front Derailleur,Components,Derailleurs,260.93,41,412,Supplier C,4.7,15,2013-07-01
+174,Fender Set - Mountain,Accessories,Fenders,120.98,8,375,Supplier C,2.8,0,2013-07-01
+175,LL Mountain Frame - Black- 40,Components,Mountain Frames,326.13,137,419,Supplier A,1.5,5,2013-07-01
+176,LL Mountain Frame - Black- 42,Components,Mountain Frames,95.44,137,216,Supplier A,4.9,0,2013-07-01
+177,LL Mountain Frame - Black- 44,Components,Mountain Frames,348.56,137,276,Supplier B,4.4,15,2013-07-01
+178,LL Mountain Frame - Black- 48,Components,Mountain Frames,199.5,137,248,Supplier B,1.5,20,2013-07-01
+179,LL Mountain Frame - Black- 52,Components,Mountain Frames,469.0,137,163,Supplier C,4.7,0,2013-07-01
+180,LL Mountain Frame - Silver- 40,Components,Mountain Frames,77.39,145,393,Supplier C,4.5,0,2013-07-01
+181,LL Mountain Frame - Silver- 42,Components,Mountain Frames,177.12,145,356,Supplier C,3.1,10,2013-07-01
+182,LL Mountain Frame - Silver- 44,Components,Mountain Frames,65.6,145,456,Supplier B,3.4,20,2013-07-01
+183,LL Mountain Frame - Silver- 48,Components,Mountain Frames,463.1,145,407,Supplier B,2.6,5,2013-07-01
+184,LL Mountain Frame - Silver- 52,Components,Mountain Frames,439.9,145,191,Supplier B,1.2,15,2013-07-01
+185,ML Mountain Frame-W - Silver- 38,Components,Mountain Frames,136.39,199,226,Supplier B,2.3,5,2013-07-01
+186,ML Mountain Frame-W - Silver- 40,Components,Mountain Frames,333.39,199,176,Supplier B,4.2,20,2013-07-01
+187,ML Mountain Frame-W - Silver- 42,Components,Mountain Frames,410.44,199,98,Supplier B,1.0,0,2013-07-01
+188,ML Mountain Frame-W - Silver- 46,Components,Mountain Frames,282.05,199,495,Supplier B,2.3,0,2013-07-01
+189,HL Mountain Frame - Black- 38,Components,Mountain Frames,269.53,739,35,Supplier C,2.6,20,2013-07-01
+190,HL Mountain Frame - Black- 42,Components,Mountain Frames,128.51,739,465,Supplier C,3.1,0,2013-07-01
+191,HL Mountain Frame - Black- 46,Components,Mountain Frames,55.62,739,496,Supplier C,4.7,0,2013-07-01
+192,HL Mountain Frame - Silver- 38,Components,Mountain Frames,449.64,747,486,Supplier C,2.4,0,2013-07-01
+193,HL Mountain Frame - Silver- 42,Components,Mountain Frames,451.2,747,95,Supplier B,2.4,15,2013-07-01
+194,HL Mountain Frame - Silver- 46,Components,Mountain Frames,320.22,747,151,Supplier A,4.0,15,2013-07-01
+195,LL Road Frame - Black- 44,Components,Road Frames,176.12,205,150,Supplier B,2.8,10,2013-07-01
+196,LL Road Frame - Black- 48,Components,Road Frames,181.11,205,189,Supplier A,1.9,5,2013-07-01
+197,LL Road Frame - Black- 52,Components,Road Frames,365.72,205,223,Supplier C,2.8,20,2013-07-01
+198,LL Road Frame - Black- 58,Components,Road Frames,449.58,205,36,Supplier B,1.6,20,2013-07-01
+199,LL Road Frame - Black- 60,Components,Road Frames,444.67,205,267,Supplier C,1.7,20,2013-07-01
+200,LL Road Frame - Black- 62,Components,Road Frames,392.14,205,368,Supplier B,3.0,10,2013-07-01
+201,ML Road Frame-W - Yellow- 38,Components,Road Frames,324.6,361,182,Supplier C,2.7,15,2013-07-01
+202,ML Road Frame-W - Yellow- 40,Components,Road Frames,51.23,361,12,Supplier A,4.7,10,2013-07-01
+203,ML Road Frame-W - Yellow- 42,Components,Road Frames,89.2,361,278,Supplier A,2.4,20,2013-07-01
+204,ML Road Frame-W - Yellow- 44,Components,Road Frames,450.29,361,216,Supplier A,3.3,5,2013-07-01
+205,ML Road Frame-W - Yellow- 48,Components,Road Frames,307.15,361,354,Supplier B,3.5,0,2013-07-01
+206,HL Road Frame - Black- 44,Components,Road Frames,14.51,869,360,Supplier A,1.1,15,2013-07-01
+207,HL Road Frame - Black- 48,Components,Road Frames,59.72,869,285,Supplier B,3.7,15,2013-07-01
+208,HL Road Frame - Black- 52,Components,Road Frames,335.12,869,272,Supplier A,1.7,10,2013-07-01
+209,HL Road Frame - Black- 62,Components,Road Frames,12.48,869,368,Supplier A,4.8,15,2013-07-01
+210,HL Road Frame - Red- 44,Components,Road Frames,88.8,869,61,Supplier B,1.6,20,2013-07-01
+211,HL Road Frame - Red- 48,Components,Road Frames,278.88,869,83,Supplier B,2.7,20,2013-07-01
+212,HL Road Frame - Red- 52,Components,Road Frames,349.03,869,367,Supplier A,1.3,10,2013-07-01
+213,HL Road Frame - Red- 56,Components,Road Frames,329.46,869,216,Supplier B,5.0,20,2013-07-01
+214,HL Road Frame - Red- 62,Components,Road Frames,119.89,869,341,Supplier A,3.0,5,2013-07-01
+215,LL Touring Frame - Blue- 44,Components,Touring Frames,358.97,200,396,Supplier B,3.4,10,2013-07-01
+216,LL Touring Frame - Blue- 50,Components,Touring Frames,126.25,200,186,Supplier C,1.3,5,2013-07-01
+217,LL Touring Frame - Blue- 54,Components,Touring Frames,169.45,200,18,Supplier C,4.0,0,2013-07-01
+218,LL Touring Frame - Blue- 58,Components,Touring Frames,375.78,200,176,Supplier C,1.8,5,2013-07-01
+219,LL Touring Frame - Blue- 62,Components,Touring Frames,328.32,200,99,Supplier C,4.6,0,2013-07-01
+220,LL Touring Frame - Yellow- 44,Components,Touring Frames,426.12,200,395,Supplier C,1.8,0,2013-07-01
+221,LL Touring Frame - Yellow- 50,Components,Touring Frames,332.23,200,444,Supplier A,1.8,5,2013-07-01
+222,LL Touring Frame - Yellow- 54,Components,Touring Frames,288.47,200,232,Supplier C,1.1,10,2013-07-01
+223,LL Touring Frame - Yellow- 58,Components,Touring Frames,55.9,200,402,Supplier C,2.9,20,2013-07-01
+224,LL Touring Frame - Yellow- 62,Components,Touring Frames,190.18,200,75,Supplier C,3.3,20,2013-07-01
+225,HL Touring Frame - Blue- 46,Components,Touring Frames,139.95,602,264,Supplier C,1.3,0,2013-07-01
+226,HL Touring Frame - Blue- 50,Components,Touring Frames,129.55,602,454,Supplier B,4.1,0,2013-07-01
+227,HL Touring Frame - Blue- 54,Components,Touring Frames,486.78,602,283,Supplier A,2.8,10,2013-07-01
+228,HL Touring Frame - Blue- 60,Components,Touring Frames,202.62,602,205,Supplier C,3.1,15,2013-07-01
+229,HL Touring Frame - Yellow- 46,Components,Touring Frames,447.1,602,222,Supplier C,2.8,5,2013-07-01
+230,HL Touring Frame - Yellow- 50,Components,Touring Frames,319.26,602,383,Supplier C,2.6,0,2013-07-01
+231,HL Touring Frame - Yellow- 54,Components,Touring Frames,399.46,602,51,Supplier A,3.2,20,2013-07-01
+232,HL Touring Frame - Yellow- 60,Components,Touring Frames,256.29,602,338,Supplier B,1.6,10,2013-07-01
+233,Half-Finger Gloves- L,Clothing,Gloves,292.68,9,366,Supplier A,1.7,5,2013-07-01
+234,Half-Finger Gloves- M,Clothing,Gloves,251.33,9,143,Supplier B,4.4,10,2013-07-01
+235,Half-Finger Gloves- S,Clothing,Gloves,105.67,9,372,Supplier C,4.8,5,2013-07-01
+236,LL Mountain Handlebars,Components,Handlebars,364.0,20,68,Supplier C,2.5,5,2013-07-01
+237,ML Mountain Handlebars,Components,Handlebars,147.58,27,98,Supplier A,2.1,0,2013-07-01
+238,HL Mountain Handlebars,Components,Handlebars,21.91,53,395,Supplier A,3.6,10,2013-07-01
+239,LL Road Handlebars,Components,Handlebars,326.28,20,24,Supplier B,2.6,10,2013-07-01
+240,ML Road Handlebars,Components,Handlebars,96.78,27,435,Supplier B,1.1,20,2013-07-01
+241,HL Road Handlebars,Components,Handlebars,470.82,53,378,Supplier A,1.6,20,2013-07-01
+242,LL Touring Handlebars,Components,Handlebars,477.43,20,468,Supplier B,3.9,0,2013-07-01
+243,HL Touring Handlebars,Components,Handlebars,458.28,41,483,Supplier A,3.6,0,2013-07-01
+244,Sport-100 Helmet- Black,Accessories,Helmets,191.38,13,52,Supplier B,1.1,15,2013-07-01
+245,Sport-100 Helmet- Blue,Accessories,Helmets,17.57,13,150,Supplier A,1.9,20,2013-07-01
+246,Sport-100 Helmet- Red,Accessories,Helmets,464.88,13,143,Supplier A,1.9,5,2013-07-01
+247,Hydration Pack - 70 oz.,Accessories,Hydration Packs,219.81,21,56,Supplier A,3.7,10,2013-07-01
+248,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,483.66,38,38,Supplier B,1.1,0,2013-07-01
+249,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,482.17,38,108,Supplier B,1.4,10,2013-07-01
+250,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,427.97,38,180,Supplier B,4.2,10,2013-07-01
+251,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,154.28,38,41,Supplier A,1.7,15,2013-07-01
+252,LL Mountain Pedal,,,198.7,18,185,Supplier B,3.6,20,2013-07-01
+253,ML Mountain Pedal,,,427.06,28,422,Supplier B,2.0,0,2013-07-01
+254,HL Mountain Pedal,,,165.29,36,397,Supplier A,1.4,10,2013-07-01
+255,LL Road Pedal,,,93.05,18,222,Supplier C,2.0,0,2013-07-01
+256,ML Road Pedal,,,282.83,28,121,Supplier A,3.9,5,2013-07-01
+257,HL Road Pedal,,,468.72,36,132,Supplier B,4.4,15,2013-07-01
+258,Touring Pedal,,,351.05,36,162,Supplier A,4.3,5,2013-07-01
+259,Patch Kit/8 Patches,Accessories,Tires and Tubes,289.33,1,214,Supplier C,2.6,0,2013-07-01
+260,Hitch Rack - 4-Bike,Accessories,Bike Racks,57.62,45,220,Supplier A,3.7,0,2013-07-01
+261,Rear Brakes,Components,Brakes,311.35,47,234,Supplier B,1.8,20,2013-07-01
+262,Rear Derailleur,Components,Derailleurs,495.13,54,330,Supplier C,2.2,10,2013-07-01
+263,LL Mountain Seat/Saddle,Components,Saddles,78.64,12,145,Supplier B,4.6,10,2013-07-01
+264,ML Mountain Seat/Saddle,Components,Saddles,263.98,17,238,Supplier C,1.1,5,2013-07-01
+265,HL Mountain Seat/Saddle,Components,Saddles,439.91,23,75,Supplier C,1.3,15,2013-07-01
+266,LL Road Seat/Saddle,Components,Saddles,372.98,12,8,Supplier A,1.8,10,2013-07-01
+267,ML Road Seat/Saddle,Components,Saddles,351.54,17,73,Supplier A,1.1,20,2013-07-01
+268,HL Road Seat/Saddle,Components,Saddles,354.22,23,441,Supplier B,1.7,5,2013-07-01
+269,LL Touring Seat/Saddle,Components,Saddles,186.15,12,491,Supplier A,3.3,5,2013-07-01
+270,ML Touring Seat/Saddle,Components,Saddles,153.86,17,400,Supplier A,2.7,20,2013-07-01
+271,HL Touring Seat/Saddle,Components,Saddles,406.59,23,252,Supplier C,4.6,15,2013-07-01
+272,Women's Mountain Shorts- L,Clothing,Shorts,406.96,26,229,Supplier A,4.3,20,2013-07-01
+273,Women's Mountain Shorts- M,Clothing,Shorts,434.87,26,6,Supplier C,2.4,15,2013-07-01
+274,Women's Mountain Shorts- S,Clothing,Shorts,457.49,26,173,Supplier C,2.0,20,2013-07-01
+275,Short-Sleeve Classic Jersey- L,Clothing,Jerseys,260.56,42,140,Supplier C,2.5,20,2013-07-01
+276,Short-Sleeve Classic Jersey- M,Clothing,Jerseys,255.74,42,167,Supplier B,3.4,0,2013-07-01
+277,Short-Sleeve Classic Jersey- S,Clothing,Jerseys,401.16,42,169,Supplier B,2.1,5,2013-07-01
+278,Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,328.48,42,392,Supplier B,3.5,20,2013-07-01
+279,Racing Socks- L,Clothing,Socks,353.96,3,433,Supplier C,2.6,20,2013-07-01
+280,Racing Socks- M,Clothing,Socks,399.94,3,282,Supplier B,3.2,10,2013-07-01
+281,All-Purpose Bike Stand,Accessories,Bike Stands,446.1,59,121,Supplier B,2.7,5,2013-07-01
+282,LL Mountain Tire,Accessories,Tires and Tubes,175.62,9,193,Supplier A,2.2,10,2013-07-01
+283,ML Mountain Tire,Accessories,Tires and Tubes,194.04,11,4,Supplier B,4.8,5,2013-07-01
+284,HL Mountain Tire,Accessories,Tires and Tubes,56.05,13,28,Supplier B,4.1,10,2013-07-01
+285,LL Road Tire,Accessories,Tires and Tubes,293.36,8,164,Supplier C,1.6,20,2013-07-01
+286,ML Road Tire,Accessories,Tires and Tubes,27.61,9,421,Supplier C,4.5,20,2013-07-01
+287,HL Road Tire,Accessories,Tires and Tubes,238.14,12,338,Supplier C,2.9,0,2013-07-01
+288,Touring Tire,Accessories,Tires and Tubes,275.9,11,135,Supplier C,4.6,10,2013-07-01
+289,Mountain Tire Tube,Accessories,Tires and Tubes,150.41,2,495,Supplier C,4.2,15,2013-07-01
+290,Road Tire Tube,Accessories,Tires and Tubes,299.51,1,364,Supplier C,2.7,0,2013-07-01
+291,Touring Tire Tube,Accessories,Tires and Tubes,24.95,2,320,Supplier B,1.1,10,2013-07-01
+292,Classic Vest- L,Clothing,Vests,28.3,24,341,Supplier C,2.1,10,2013-07-01
+293,Classic Vest- M,Clothing,Vests,413.07,24,499,Supplier C,3.2,0,2013-07-01
+294,Classic Vest- S,Clothing,Vests,186.49,24,144,Supplier A,3.5,20,2013-07-01
+295,Water Bottle - 30 oz.,Accessories,Bottles and Cages,72.26,2,326,Supplier B,2.0,10,2013-07-01
