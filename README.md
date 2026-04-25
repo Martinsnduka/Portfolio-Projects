@@ -1,5 +1,5 @@
 This project explores an E-commerce dataset using SQL to uncover insights on customer behaviour , order trends, and product performance.
-**Dataset** : E-commerce transactions (customers, orders, products).
+**Dataset** : E-commerce transactions (customers, products,fact_sales).
 **Tool used**: SQL Server Management studio.
 **Key Questions Answered** :
 **(1)** Top 5 best performing products that generated the highest revenue?(Found in E-commerce Data_Exploration.sql).
