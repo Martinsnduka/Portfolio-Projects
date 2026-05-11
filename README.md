@@ -26,7 +26,7 @@ The dataset captures end-to-end e-commerce transactions across three related tab
  2. Which products are **worst-performing** in terms of sales volume? 
  3. Who are the **top customers** ranked by total order value? |
 
-### Advanced_SQL_EDA.sql
+### SQL Advanced EDA.sql
  4. How has **sales performance trended over time**? |
  5. How do **yearly product sales** compare against both the product's average and the prior year? 
  6. Which **product categories** contribute the highest percentage of total sales? 
